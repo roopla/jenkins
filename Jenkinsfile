@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'In main Branch'
+                echo 'In First Branch'
             }
         }
     }
